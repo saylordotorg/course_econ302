@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON302: Money, Banking, And Financial Markets"
+course_description: "A detailed study of the importance of money, banking, and financial markets and institutions of a developed economy, with particular attention to foreign exchange and monetary theory."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Central Banking** <span id="4"></span> 
 *A central bank is commonly known as a lender of last resort, or as a
 “bankers’ bank.”  Most developing countries have a central bank that

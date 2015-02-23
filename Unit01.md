@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON302: Money, Banking, And Financial Markets"
+course_description: "A detailed study of the importance of money, banking, and financial markets and institutions of a developed economy, with particular attention to foreign exchange and monetary theory."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Money and Banking** <span id="1"></span> 
 *Money and banking institutions are extremely important to the modern
 economy.  The flow of funds (literally trillions of dollars) is

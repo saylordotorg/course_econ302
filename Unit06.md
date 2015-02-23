@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON302: Money, Banking, And Financial Markets"
+course_description: "A detailed study of the importance of money, banking, and financial markets and institutions of a developed economy, with particular attention to foreign exchange and monetary theory."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Monetary Theory** <span id="6"></span> 
 *Monetary theory is the study of the effect of money on the economy.
  Over time, various theories have evolved to explain the demand for

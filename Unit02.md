@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON302: Money, Banking, And Financial Markets"
+course_description: "A detailed study of the importance of money, banking, and financial markets and institutions of a developed economy, with particular attention to foreign exchange and monetary theory."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Financial Markets** <span id="2"></span> 
 *The loanable funds market is the broad marketplace that coordinates the
 borrowing and lending decisions of different business firms and
