@@ -88,8 +88,10 @@ course and its requirements.
 free, online materials.  However, it makes primary use of the following
 materials:
 
--   Frederic Mishkin’s [The Economics of Money, Banking, and Financial
-    Markets](http://cnx.org/content/col10522/latest/)
+-   Lecture slides for Frederic Mishkin’s *The Economics of Money, Banking, and Financial
+    Markets* (8e)
+-   Optional: *[The Economics of Money, Banking, and Financial Markets](https://archive.org/details/MoneyBanking9e)* (9e)
+-   *Money and Banking, v. 1.0* ([HTML](http://2012books.lardbucket.org/books/finance-banking-and-money-v1.0/) | [PDF](http://www.saylor.org/site/textbooks/Money%20and%20Banking.pdf))
 -   Articles from various sources available on the internet
 
 **Requirements for Completion**: In order to complete this course, you
@@ -125,24 +127,3 @@ study the new vocabulary and it will pay handsome dividends. 
 down any important equations, formulas, and definitions that stand out
 to you.  These notes will be useful to review as you study for your
 final exam.
-
-### Preliminary Information
-
--   ***Money and Banking, v. 1.0***
-
-    You will be prompted to read sections of this book throughout the
-    course.  You may choose to download the text in full now and skip to
-    the appropriate section as prompted by the resource boxes below, or
-    you can simply download the specific sections of the text assigned
-    as you progress through each resource box below.  
-      
-     Reading: *[Money and Banking, v.
-    1.0](http://www.saylor.org/site/textbooks/Money%20and%20Banking.pdf)* (PDF)
-
-      
-     Terms of Use: The text was adapted by The Saylor Foundation under a
-    [CreativeCommons-Attribution-NonCommercial-ShareAlike 3.0
-    License](http://creativecommons.org/licenses/by-nc-sa/3.0/) without
-    attribution as requested by the work's original creator or licensee.
-
-
