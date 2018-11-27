@@ -113,7 +113,7 @@ rates.*
 
 -   **Reading: *Money and Banking*: “Chapter 20: Money Demand”**
     Link: *Money and Banking:* [“Chapter 20: Money
-    Demand”](http://www.saylor.org/site/textbooks/Money%20and%20Banking.pdf)
+    Demand”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
       
      Instructions: Please note this reading will cover the subjects in
@@ -196,7 +196,7 @@ demand curve that is used in aggregate demand and supply analysis.*
 
 -   **Reading: *Money and Banking*: “Chapter 21: IS – LM”**
     Link: *Money and Banking:* [“Chapter 21: IS –
-    LM”](http://www.saylor.org/site/textbooks/Money%20and%20Banking.pdf)
+    LM”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
       
      Instructions: This reading will cover topics outlined in sections
@@ -287,7 +287,7 @@ better decide which policy is most appropriate.*
 
 -   **Reading: *Money and Banking*: “Chapter 22: IS – LM in Action”**
     Link: *Money and Banking:* [“Chapter 22: IS-LM in
-    Action”](http://www.saylor.org/site/textbooks/Money%20and%20Banking.pdf)
+    Action”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
       
      Instructions: Please note this reading will address the topics in
@@ -423,7 +423,7 @@ and, with a little work, relatively easy to master.*
     Demand, the Growth Diamond, and Financial Shocks”**
     Link: *Money and Banking:* [“Chapter 23: Aggregate Supply and
     Demand, the Growth Diamond, and Financial
-    Shocks”](http://www.saylor.org/site/textbooks/Money%20and%20Banking.pdf)
+    Shocks”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
       
      Instructions: This reading will address the topics in sections
@@ -553,7 +553,7 @@ activity.*
     Transmission Mechanisms”**
     Link: *Money and Banking:* [“Chapter 24: Monetary Policy
     Transmission
-    Mechanisms”](http://www.saylor.org/site/textbooks/Money%20and%20Banking.pdf)
+    Mechanisms”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
       
      Instructions: This reading covers topics outlined in sections
@@ -636,7 +636,7 @@ growth in the money supply.**
 
 -   **Reading: *Money and Banking*: “Chapter 25: Inflation and Money”**
     Link: *Money and Banking:* [“Chapter 25: Inflation and
-    Money”](http://www.saylor.org/site/textbooks/Money%20and%20Banking.pdf) (PDF)  
+    Money”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf) (PDF)  
       
      Instructions: This reading will cover concepts from subunits
     6.6.1-6.6.5.  When you click on the link above, you will be directed
@@ -721,7 +721,7 @@ question.*
     Redux: Monetary Policy Implications”**
     Link: *Money and Banking:* [“Chapter 26: Rational Expectations
     Redux: Monetary Policy
-    Implications”](http://www.saylor.org/site/textbooks/Money%20and%20Banking.pdf)
+    Implications”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
       
      Instructions: This reading will cover topics in subunits

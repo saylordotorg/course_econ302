@@ -128,7 +128,7 @@ disadvantages of central bank independence.*
 -   **Reading: *Money and Banking*: “Chapter 13: Central Bank Form and
     Function”**
     Link: *Money and Banking:* [“Chapter 13: Central Bank Form and
-    Function”](http://www.saylor.org/site/textbooks/Money%20and%20Banking.pdf)
+    Function”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
       
      Instructions: Please note this reading will address the topics in
@@ -177,7 +177,7 @@ disadvantages of central bank independence.*
     Federal Reserve System: Background and Structure"**
     Link: The Federal Reserve Board's "[Chapter 1: Overview of the
     Federal Reserve System: Background and
-    Structure](http://www.saylor.org/site/wp-content/uploads/2012/09/SAYLOR.ORG-ECON302-Chapter-1.pdf)"
+    Structure](https://resources.saylor.org/archived/wp-content/uploads/2012/09/SAYLOR.ORG-ECON302-Chapter-1.pdf)"
     (PDF)  
       
      Instructions: Please read this entire chapter from *The Federal
@@ -258,7 +258,7 @@ step in understanding the money supply process.*
 -   **Reading: *Money and Banking*: “Chapter 14: The Money Supply
     Process”**
     Link: *Money and Banking:* [“Chapter 14: The Money Supply
-    Process”](http://www.saylor.org/site/textbooks/Money%20and%20Banking.pdf)
+    Process”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
       
      Instructions: Please note this reading will address the subjects in
@@ -391,7 +391,7 @@ determining the money multiplier are examined.*
     the Money Multiplier”**
     Link: *Money and Banking:* [“Chapter 15: The Money Supply and the
     Money
-    Multiplier”](http://www.saylor.org/site/textbooks/Money%20and%20Banking.pdf) (PDF)  
+    Multiplier”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf) (PDF)  
       
      Instructions: This reading will address the topics in sections
     4.3.1-4.3.3.  When you click on the link above, you will be directed
@@ -489,7 +489,7 @@ by other central banks besides the Federal Reserve.*
 -   **Reading: *Money and Banking*: “Chapter 16: Monetary Policy
     Tools”**
     Link: *Money and Banking:* [“Chapter 16: Monetary Policy
-    Tools”](http://www.saylor.org/site/textbooks/Money%20and%20Banking.pdf)
+    Tools”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
       
      Instructions: Please note this reading covers sections 4.4.1-4.4.4.
@@ -639,7 +639,7 @@ rule as a guide for setting the federal funds rate.*
 -   **Reading: *Money and Banking*: “Chapter 17: Monetary Policy Targets
     and Goals”**
     Link: *Money and Banking:* [“Chapter 17: Monetary Policy Targets and
-    Goals”](http://www.saylor.org/site/textbooks/Money%20and%20Banking.pdf)
+    Goals”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
       
      Instructions: When you click on the link above, you will be
@@ -657,7 +657,7 @@ rule as a guide for setting the federal funds rate.*
 
 -   **Reading: *Macroeconomics – Theory Through Applications***
     Link: *[Macroeconomics – Theory Through
-    Applications](http://www.saylor.org/site/textbooks/Macroeconomics%20-%20Theory%20through%20Application.pdf)* (PDF)  
+    Applications](https://resources.saylor.org/archived/textbooks/Macroeconomics%20-%20Theory%20through%20Application.pdf)* (PDF)  
         
      Instructions: Read Section 10.3, on pages 273 to 280. Focus on the
     topic of inflation targeting.  
@@ -671,7 +671,7 @@ rule as a guide for setting the federal funds rate.*
     Implementation of Monetary Policy"**
     Link: The Federal Reserve Board's "[Chapter 3: The Implementation of
     Monetary
-    Policy](http://www.saylor.org/site/wp-content/uploads/2012/09/SAYLOR.ORG-ECON302-Chapter-3-The-implementation-of-monetary-policy.pdf)"
+    Policy](https://resources.saylor.org/archived/wp-content/uploads/2012/09/SAYLOR.ORG-ECON302-Chapter-3-The-implementation-of-monetary-policy.pdf)"
     (PDF).  
       
      Instructions: Please read this entire chapter from *The Federal
@@ -683,7 +683,7 @@ rule as a guide for setting the federal funds rate.*
     and the Economy"**
     Link: The Federal Reserve Board's "[Chapter 2: Monetary Policy and
     the
-    Economy](http://www.saylor.org/site/wp-content/uploads/2012/09/SAYLOR.ORG-ECON302-Chapter-2-Monetary-Policy-and-the-Economy.pdf%20)"
+    Economy](https://resources.saylor.org/archived/wp-content/uploads/2012/09/SAYLOR.ORG-ECON302-Chapter-2-Monetary-Policy-and-the-Economy.pdf%20)"
     (PDF)  
       
      Instructions: Please read this entire chapter from *The Federal
