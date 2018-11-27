@@ -81,7 +81,7 @@ why exchange rates are so volatile from day to day.*
 
 -   **Reading: Money and Banking: “Chapter 18: Foreign Exchange”**
     Link: *Money and Banking:* [“Chapter 18: Foreign
-    Exchange”](http://www.saylor.org/site/wp-content/uploads/2013/03/ECON302-5.1.pdf)
+    Exchange”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ECON302-5.1.pdf)
     (PDF)  
       
      Instructions: Please note this reading provides information for
@@ -171,7 +171,7 @@ international financial system during the past half century.*
 -   **Reading: *Money and Banking*: “Chapter 19: International Monetary
     Regimes”**
     Link: *Money and Banking:* [“Chapter 19: International Monetary
-    Regimes”](http://www.saylor.org/site/textbooks/Money%20and%20Banking.pdf)
+    Regimes”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
       
      Instructions: This reading covers the topics for sections
