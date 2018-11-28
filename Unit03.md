@@ -114,7 +114,7 @@ incentives to honor their promises and pay back the borrowed funds.*
     Transaction Costs, and Asymmetric Information”**
     Link: *Money and Banking:* [“Chapter 8: Financial Structure,
     Transaction Costs, and Asymmetric
-    Information”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
+    Information”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
         
      Instructions: Please note this reading covers topics in sections
@@ -218,7 +218,7 @@ financial intermediaries.*
 
 -   **Reading: *Money and Banking*: “Chapter 9: Bank Management”**
     Link:  *Money and Banking:* [“Chapter 9: Bank
-    Management”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
+    Management”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
       
      Instructions: Please note that this reading covers material for
@@ -304,7 +304,7 @@ developments that have affected us in the United States.*
     Structure in Banking and Finance”**
     Link: *Money and Banking:* [“Chapter 10: Innovation and Structure in
     Banking and
-    Finance”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
+    Finance”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
       
      Instructions: Please note this reading covers sections 3.3.1-3.3.7.
@@ -380,7 +380,7 @@ and whether recent banking legislation or other proposed reforms are
 likely to ensure that future financial crises can be avoided.*
 
 -   **Reading: Pearson Education Canada's version of Frederic
-    https://resources.saylor.org/archived/wp-admin/profile.phpS. Mishkin’s “Chapter
+    https://resources.saylor.org/wwwresources/archived/site/wp-admin/profile.phpS. Mishkin’s “Chapter
     11: Economic Analysis of Banking Regulation” Lecture Notes**
     Link: Pearson Education Canada’s version of Frederic S. Mishkin’s
     “[Chapter 11: Economic Analysis of Banking
@@ -400,7 +400,7 @@ likely to ensure that future financial crises can be avoided.*
 -   **Reading: *Money and Banking*: “Chapter 11: The Economics of
     Financial Regulation”**
     Link: *Money and Banking:* [“Chapter 11: The Economics of Financial
-    Regulation”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
+    Regulation”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
       
      Instructions: Please note this reading addresses the topics in
@@ -619,7 +619,7 @@ risk.*
 -   **Reading: *Money and Banking*: “Chapter 12: The Financial Crisis of
     2007–2008”**
     Link: *Money and Banking:* [“Chapter 12: The Financial Crisis of
-    2007–2008”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
+    2007–2008”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
       
      Instructions: When you click on the link above, you will be
