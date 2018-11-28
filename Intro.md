@@ -83,7 +83,7 @@ computer.
 √    Be competent in the English language.
 
 √    Have read the [Saylor Student
-Handbook.](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
+Handbook.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
 
 ### Course Information
 
@@ -99,7 +99,7 @@ materials:
 -   Lecture slides for Frederic Mishkin’s *The Economics of Money, Banking, and Financial
     Markets* (8e)
 -   Optional: *[The Economics of Money, Banking, and Financial Markets](https://archive.org/details/MoneyBanking9e)* (9e)
--   *Money and Banking, v. 1.0* ([HTML](http://2012books.lardbucket.org/books/finance-banking-and-money-v1.0/) | [PDF](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf))
+-   *Money and Banking, v. 1.0* ([HTML](http://2012books.lardbucket.org/books/finance-banking-and-money-v1.0/) | [PDF](https://resources.saylor.org/wwwresources/archived/site/textbooks/Money%20and%20Banking.pdf))
 -   Articles from various sources available on the internet
 
 **Requirements for Completion**: In order to complete this course, you

@@ -107,7 +107,7 @@ throughout the book.*
 
 -   **Reading: *Money and Banking*: “Chapter 4: Interest Rates”**
     Link: *Money and Banking:* [“Chapter 4: Interest
-    Rates”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
+    Rates”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
         
      Instructions: Please note this reading addresses the material in
@@ -196,7 +196,7 @@ adjust to the change in the money supply.*
     Interest-Rate Fluctuations”**
     Link: *Money and Banking:* [“Chapter 5: The Economics of
     Interest-Rate
-    Fluctuations”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
+    Fluctuations”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
       
      Instructions: Please note this reading will address topics outlined
@@ -287,7 +287,7 @@ is known as the term structure of interest rates.*
     Interest-Rate Spreads and Yield Curves”**
     Link: *Money and Banking:* [“Chapter 6: The Economics of
     Interest-Rate Spreads and Yield
-    Curves”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
+    Curves”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
       
      Instructions: When you click on the link above, you will be
@@ -385,7 +385,7 @@ expectations is a good place to start analyzing expectations.*
     Efficient Markets, and the Valuation of Corporate Equities”**
     Link: *Money and Banking:* [“Chapter 7: Rational Expectations,
     Efficient Markets, and the Valuation of Corporate
-    Equities”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
+    Equities”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
         
      Instructions: Please note this reading covers material addressed in

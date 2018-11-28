@@ -107,7 +107,7 @@ real-time exchange of information and trading possible.*
 -   **Reading: *Money and Banking*: “Chapter 2, Section 4: Financial
     Markets”**
     Link: *Money and Banking:* “[Chapter 2, Section 4: Financial
-    Markets](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)”
+    Markets](https://resources.saylor.org/wwwresources/archived/site/textbooks/Money%20and%20Banking.pdf)”
     (PDF)  
         
      Instructions: When you click on the link above, you will be
@@ -174,7 +174,7 @@ of securities.**
 -   **Reading: *Money and Banking*: “Chapter 2, Section 5: Financial
     Intermediaries”**
     Link: *Money and Banking:* [“Chapter 2 Section 5: Financial
-    Intermediaries”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
+    Intermediaries”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
         
      Instructions: When you click on the link above, you will be
@@ -196,7 +196,7 @@ of securities.**
     Link: Yale University: Professor Robert J. Shiller’s “[Lecture 13:
     Banking: Successes and
     Failures](http://www.youtube.com/watch?v=VTF8kiAkGRc)” (YouTube) and
-    [transcript](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ECON302-1.2-transcript.pdf)
+    [transcript](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ECON302-1.2-transcript.pdf)
     (PDF)  
       
      Also available in:  
@@ -264,7 +264,7 @@ economy.*
     Money, and Transactional Efficiency”**
     Link: *Money and Banking:* [“Chapter 3, Section 1: Of Love, Money,
     and Transactional
-    Efficiency”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
+    Efficiency”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
         
      Instructions: When you click on the link above, you will be
@@ -283,7 +283,7 @@ economy.*
     Link: Yale University: Professor Robert J. Shiller’s “[Lecture 16:
     The Evolution and Perfection of Monetary
     Policy](http://www.youtube.com/watch?v=Ze-7ezLcKOQ)” ([transcript
-    PDF](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ECON302-1.3-transcript.pdf))  
+    PDF](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ECON302-1.3-transcript.pdf))  
       
      Also available in:   
      [iTunes
@@ -370,7 +370,7 @@ accomplish this function indirectly. *
 -   **Reading: *Money and Banking*: “Chapter 2, Section 2: Financial
     Systems”**
     Link: *Money and Banking:* [“Chapter 2, Section 2: Financial
-    Systems”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf) (PDF)  
+    Systems”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Money%20and%20Banking.pdf) (PDF)  
         
      Instructions: Please note this reading covers material in sections
     1.4.1-1.4.4.  When you click on the second link above, you will be
@@ -453,7 +453,7 @@ the most primitive societies.*
 
 -   **Reading: *Money and Banking*: “Chapter 3: Money”**
     Link: *Money and Banking:* [“Chapter 3:
-    Money”](https://resources.saylor.org/archived/textbooks/Money%20and%20Banking.pdf)
+    Money”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Money%20and%20Banking.pdf)
     (PDF)  
       
      Instructions: When you click on the link above, you will be
